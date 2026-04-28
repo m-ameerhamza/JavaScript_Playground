@@ -2,11 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>AI Agent API Caller - Instructions</title>
 </head>
 <body>
 
-  <h1>AI Agent API Demo</h1>
+  <h1>AI Agent API</h1>
 
   <p>
     This project demonstrates how to use JavaScript to build a simple AI agent
