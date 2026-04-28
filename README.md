@@ -5,7 +5,7 @@
 </head>
 <body>
 
-  <h1>AI Agent API</h1>
+  <h1>Calling an AI Agent API</h1>
 
   <p>
     This project demonstrates how to use JavaScript to build a simple AI agent
