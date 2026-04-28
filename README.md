@@ -2,26 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>AI Agent API Demo - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      line-height: 1.6;
-    }
-    code {
-      background: #f4f4f4;
-      padding: 2px 6px;
-    }
-    pre {
-      background: #f4f4f4;
-      padding: 10px;
-      overflow-x: auto;
-    }
-    h1, h2, h3 {
-      color: #333;
-    }
-  </style>
+  <title>AI Agent API Caller - Instructions</title>
 </head>
 <body>
 
